@@ -10,8 +10,8 @@
 Данный репозиторий содержит следующие компоненты:
 
 ## Датасеты
-Датасет `diabetes.csv` для задачи классификации. (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download)
-Датасет `heart_failure_clinical_records_dataset.csv` для задачи регрессии (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
+Датасет `diabetes.csv` для задачи классификации. (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download)  
+Датасет `heart_failure_clinical_records_dataset.csv` для задачи регрессии (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)  
 
 ## jupyter-notebook
 Файл `Lab1_5_MultiMedia_MAI_Karnakov_406.ipynb` включает в себя лабораторные работы в jupyter-notebook
